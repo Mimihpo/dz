@@ -9,7 +9,7 @@ class Program
 
         Dictionary<string, int> slov = new Dictionary<string, int>
         {
-            { "Андрей",7900 },
+            { "Михаил",7900 },
         };
         var f = true;
         while (f)
